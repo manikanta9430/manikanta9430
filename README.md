@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **manikanta.rayala9@gmail.com**
 
-- ⚡ Fun fact **I eat and code alot, never go to the GYM.**
+- ⚡ Fun fact **I eat and code alot, but never go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
