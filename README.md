@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manikanta</h1>
 <h3 align="center">I'm a passionate Cloud Architect and Data Analyst from India.</h3>
+<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
 
 
 ## 🙋‍♂️ About Me
@@ -69,4 +70,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manikanta9430">
 </a>
-<a href="https://github.com/manikanta26?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="centre">Little Things Matter, As your Star ⭐ My Repos :heart:!</h3>
+<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
+<a href="https://github.com/manikanta26?tab=followers"><img src="https://img.shields.io/github/followers/manikanta9430?label=Followers&style=social" alt="GitHub Badge"></a>
