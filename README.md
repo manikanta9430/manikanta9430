@@ -15,19 +15,22 @@
 
 - 📫 How to reach me **manikanta.rayala9@gmail.com**
 
-- ⚡ Fun fact **I eat and code alot, but never go to the GYM.**
+- ⚡ Fun fact : **I eat and code alot, but never go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-color-tal-revivo.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a>
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> </a>
     <a href="https://html.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
-    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/> </a>
+    
+    <a href="" target="_blank"> </a>
     
 </p>
 
@@ -70,6 +73,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manikanta9430">
 </a>
-<h3 align="centre">Little Things Matter, As your Star ⭐ My Repos :heart:!</h3>
+<h3 align="center">Little Things Matter, As your Star ⭐ My Repos :heart:!</h3>
 <img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
 <a href="https://github.com/manikanta26?tab=followers"><img src="https://img.shields.io/github/followers/manikanta9430?label=Followers&style=social" alt="GitHub Badge"></a>
