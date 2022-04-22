@@ -1,8 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manikanta</h1>
-<div class="badge-base LI-profile-badge" align = "center" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="manikanta26" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manikanta26?trk=profile-badge">Manikanta Rayala</a></div>
-              
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manikanta</h1>             
 <h3 align="center">I'm a passionate Cloud Architect and Data Analyst from India.</h3>
 <img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
 
