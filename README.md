@@ -64,4 +64,4 @@
 </a>
 <h3 align="center">Little Things Matter, As you Star ⭐ My Repos :heart:!</h3>
 <img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
-<a href="https://github.com/manikanta26?tab=followers"><img src="https://img.shields.io/github/followers/manikanta9430?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/manikanta9430?tab=followers"><img src="https://img.shields.io/github/followers/manikanta9430?label=Followers&style=social" alt="GitHub Badge"></a>
