@@ -7,15 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently pursuing **Masters in Computer Science at NJIT!.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://drive.google.com/file/d/1Fe0IlCjzZtSuC-xt31u96vrX-914Vewn/view?usp=sharing)**
-
 - 📫 How to reach me **manikanta.rayala9@gmail.com**
-
-- ⚡ Fun fact : **I eat and code alot, but never go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
