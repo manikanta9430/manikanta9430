@@ -16,15 +16,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a>
-    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> </a>
-    <a href="https://html.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>    
+    <a><img src="https://icons8.com/icon/vMqgHSToxrJR/typescript"></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -48,8 +41,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/manikanta9430/github-readme-activity-graph"><img alt="Manikanta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manikanta9430&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -57,9 +48,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/manikanta26/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mk26____"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/manikanta.26/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href ="https://auth.geeksforgeeks.org/user/manikanta11914214/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
 </p>
 
 ## ❤ Views and Followers
